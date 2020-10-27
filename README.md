@@ -1,7 +1,7 @@
 # **Epitech 3rd-Year Projects**
 
 | Project Name    | Details                                                                                    | Notes (/20)  |
-| --------------------- |:------------------------------------------------------------------------------------------:| :-----------:|
+| --------------- |:------------------------------------------------------------------------------------------:| :-----------:|
 | **DevOps** |
 | [Boostrap - Popeye](https://github.com/Nafiros/B-DOP-500-Popeye-Bootstrap) | Dockerfile: **100%** / docker-compose.yml: **50%** | **N/A** |
 | [Popeye](https://github.com/Nafiros/B-DOP-500-Popeye) | Image Poll: **100%** / Image Result: **100%** / Image Worker: **100%** / Docker Compose: **100%** | **20** |
